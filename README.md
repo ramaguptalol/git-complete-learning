@@ -1,12 +1,13 @@
 # git-complete-learning
 
 <h2>CONCEPT BEHIND GIT</h2>
-### Roadmap:
-##1. What is Git and Github
-  Learn what is Git and GitHub.
-  Understand why it is important for developers
-  Install Git locally and create GitHub account.
-##2. Basic and Useful Git Commands
+# Roadmap:
+## 1. What is Git and Github
+   1. Learn what is Git and GitHub.
+   2. Understand why it is important for developers
+   3. Install Git locally and create GitHub account.
+  
+## 2. Basic and Useful Git Commands
 Learn basic Git commands, such as git init, git add, and git commit.
 Link Git and GitHub together
 Learn about branches, for example creating and merging branches
