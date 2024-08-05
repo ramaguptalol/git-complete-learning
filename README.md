@@ -1,7 +1,5 @@
 # git-complete-learning
 
-<h2>CONCEPT BEHIND GIT</h2>
-
 # Roadmap:
 
 ## 1. What is Git and Github
