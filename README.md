@@ -3,9 +3,9 @@
 # Roadmap:
 
 ## 1. What is Git and Github
-   1. Learn what is Git and GitHub.
-   2. Understand why it is important for developers
-   3. Install Git locally and create GitHub account.
+   - Learn what is Git and GitHub.
+   - Understand why it is important for developers
+   - Install Git locally and create GitHub account.
   
 ## 2. Basic and Useful Git Commands
 Learn basic Git commands, such as git init, git add, and git commit.
