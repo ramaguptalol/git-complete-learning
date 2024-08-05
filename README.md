@@ -1,7 +1,9 @@
 # git-complete-learning
 
 <h2>CONCEPT BEHIND GIT</h2>
+
 # Roadmap:
+
 ## 1. What is Git and Github
    1. Learn what is Git and GitHub.
    2. Understand why it is important for developers
