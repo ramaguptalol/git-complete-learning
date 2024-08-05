@@ -1,3 +1,3 @@
 # git-complete-learning
 
-<h1 style="text-color:red">Concept Behind Git</h1>
+<h2>Concept Behind Git</h2>
