@@ -4,8 +4,8 @@
 
 ## 1. What is Git and Github
    - [ ] Learn what is Git and GitHub.
-   - [ ]Understand why it is important for developers
-   - [ ]Install Git locally and create GitHub account.
+   - [ ] Understand why it is important for developers
+   - [ ] Install Git locally and create GitHub account.
   
 ## 2. Basic and Useful Git Commands
 Learn basic Git commands, such as git init, git add, and git commit.
