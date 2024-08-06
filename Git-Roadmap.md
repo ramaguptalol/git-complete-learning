@@ -15,10 +15,10 @@
    - [ ] Practise pulling and pushing changes.
 
 ## 4. Advanced Git and GitHub commands and features
+   - [ ] Learn Markdown
    - [ ] Learn about BRANCHES, for example creating and merging branches
    - [ ] Learn advanced Git commands, such as, git rebase, and git reset.
    - [ ] Learn to resolve merge conflicts
    - [ ] Learn about GitHub workflows, actions and codespaces.
-   - [ ] Learn Markdown
 
    ### Note: Everything in GitHub is written in Markdown so it is a good idea to know the basics of how to write in Markdown.
