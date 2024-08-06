@@ -70,3 +70,4 @@ H~2~O
 
 X^2^
  
+[see the complete cheatsheet here](https://www.markdownguide.org/cheat-sheet/)
