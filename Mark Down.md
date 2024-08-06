@@ -16,13 +16,11 @@
 - Third item
 
 `
-<html>
-<head>
-</head>
-<body>
-  <h1>hey</h1>
-</body>
-</html>
+function(){
+u.addEventListener('onclick', {
+u=u+3;
+})
+}
 `
 
 ---
