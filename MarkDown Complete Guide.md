@@ -24,7 +24,8 @@ u=u+3;
 }
 `
 
-```
+``` javascript
+
 {
   "firstName": "John",
   "lastName": "Smith",
