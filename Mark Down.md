@@ -23,6 +23,14 @@ u=u+3;
 }
 `
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 ---
 
 [title](https://www.example.com)
@@ -37,13 +45,7 @@ u=u+3;
 | Paragraph | Text |
 
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+
 
 Here's a sentence with a footnote. [^1]
 
@@ -53,7 +55,7 @@ Here's a sentence with a footnote. [^1]
 ### My Great Heading {#custom-id}
 
 term
-: definition
+: hey this is the definition
 
 ~~The world is flat.~~
 
